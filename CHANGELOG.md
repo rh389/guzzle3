@@ -1,6 +1,8 @@
 CHANGELOG
 =========
 
+Testing the pull request process for a read-only user
+
 3.9.1 (2014-05-07)
 ------------------
 
